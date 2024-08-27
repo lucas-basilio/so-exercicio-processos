@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Distro/Distro.iml" filepath="$PROJECT_DIR$/Distro/Distro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Processos/Processos.iml" filepath="$PROJECT_DIR$/Processos/Processos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskKill/TaskKill.iml" filepath="$PROJECT_DIR$/TaskKill/TaskKill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/so-exercicio-processos.iml" filepath="$PROJECT_DIR$/.idea/so-exercicio-processos.iml" />
+    </modules>
+  </component>
+</project>
